@@ -1,0 +1,2 @@
+# KHP Quiz
+ C++
